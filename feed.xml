@@ -1,43 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="https://deeplearning.magellium.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://deeplearning.magellium.fr//" rel="alternate" type="text/html" /><updated>2017-10-02T08:13:08-05:00</updated><id>https://deeplearning.magellium.fr//</id><title type="html">Deep Learning</title><subtitle>&lt;a href=&quot;https://www.magellium.fr&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/magellium.png&quot; alt=&quot;logo Magellium&quot;&gt;&lt;/a&gt;</subtitle><author><name>Magellium</name></author><entry><title type="html">Meet the team !</title><link href="https://deeplearning.magellium.fr//2017/09/29/about.html" rel="alternate" type="text/html" title="Meet the team !" /><published>2017-09-29T03:00:00-05:00</published><updated>2017-09-29T03:00:00-05:00</updated><id>https://deeplearning.magellium.fr//2017/09/29/about</id><content type="html" xml:base="https://deeplearning.magellium.fr//2017/09/29/about.html">&lt;h2 id=&quot;deeplearningmagellium&quot;&gt;DeepLearning@Magellium&lt;/h2&gt;
-
-&lt;p&gt;The Deep Learning team at Magellium is composed of experienced individuals with a comprehensive list of skillsets.&lt;/p&gt;
-
-&lt;p&gt;Our experts deal with problem solving in a broad range of sensors interpretation topics :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Remote sensing from satellite and aerial images&lt;/li&gt;
-  &lt;li&gt;Instance detection from on-board camera&lt;/li&gt;
-  &lt;li&gt;Lidar registration and classification&lt;/li&gt;
-  &lt;li&gt;Inverse modelling of physical phenomena&lt;/li&gt;
-  &lt;li&gt;and many more…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This broad spectrum of applications allows our team to capitalize knowledge, to have a high level of expertise and to maintain an out-of-the-box thinking. This benefits greatly to our customers who get efficient and valuable support.&lt;/p&gt;
-
-&lt;h2 id=&quot;we-can-help-you-&quot;&gt;We can help you !&lt;/h2&gt;
-
-&lt;p&gt;We are glad to back you in many ways.&lt;/p&gt;
-
-&lt;h3 id=&quot;free-consulting-and-expert-advice&quot;&gt;Free consulting and expert advice&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Your case study with our team. Is deep learning the best way to fullfill your needs ? How can it be integrated with my workflows ? We will answer these questions together. As our team members master classical machine learning, computer vision and remote sensing science and applications, you will get the best-fitted advice for your needs.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A presentation of our seminary “The deeplearning for dummies” which aims to swipe off the hype and buzz words, and let you understand how it can really be useful to achieve your goals.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;works&quot;&gt;Works&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Turnkey solutions accounting for data providing, task solving, interfaces with your existing worfklow. The Magellium experience in Geoinformation and GIS allows us to provide you with an entire GIS or geoanalytics platform.&lt;/li&gt;
-  &lt;li&gt;Algorithms to embed in your application as a library or an independant binary component&lt;/li&gt;
-  &lt;li&gt;R&amp;amp;D, Proof of Concept. You bring your problem, we provide you with the solutions through a lean process with rapid prototyping and quick iterations.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Feel free to contact us at &lt;a href=&quot;mailto:deeplearning@magellium.com&quot;&gt;deeplearning@magellium.com&lt;/a&gt;.&lt;/p&gt;</content><author><name>Magellium</name></author><summary type="html">DeepLearning@Magellium</summary></entry><entry><title type="html">TIM Workshop</title><link href="https://deeplearning.magellium.fr//conference/2017/07/07/seminaire_tim.html" rel="alternate" type="text/html" title="TIM Workshop" /><published>2017-07-07T03:00:00-05:00</published><updated>2017-07-07T03:00:00-05:00</updated><id>https://deeplearning.magellium.fr//conference/2017/07/07/seminaire_tim</id><content type="html" xml:base="https://deeplearning.magellium.fr//conference/2017/07/07/seminaire_tim.html">&lt;p&gt;Magellium attends the DGA TIM workshop to show its recent works related with semantic segmentation. These works include automatic building footprint extraction, automatic land cover classification from simulated Sentinel-2 images, ship detection (on behalf an undisclosed customer), handwritten digits recognition from 18th-19th century maps and on-going works on cloud and vehicle detection.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="https://deeplearning.magellium.fr//feed.xml" rel="self" type="application/atom+xml" /><link href="https://deeplearning.magellium.fr//" rel="alternate" type="text/html" /><updated>2017-10-03T09:38:46-05:00</updated><id>https://deeplearning.magellium.fr//</id><title type="html">Deep Learning</title><subtitle>&lt;a href=&quot;https://www.magellium.fr&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/images/magellium.png&quot; alt=&quot;logo Magellium&quot;&gt;&lt;/a&gt;</subtitle><author><name>Magellium</name></author><entry><title type="html">TIM Workshop</title><link href="https://deeplearning.magellium.fr//conference/2017/07/07/seminaire_tim.html" rel="alternate" type="text/html" title="TIM Workshop" /><published>2017-07-07T03:00:00-05:00</published><updated>2017-07-07T03:00:00-05:00</updated><id>https://deeplearning.magellium.fr//conference/2017/07/07/seminaire_tim</id><content type="html" xml:base="https://deeplearning.magellium.fr//conference/2017/07/07/seminaire_tim.html">&lt;p&gt;Magellium attends the DGA TIM workshop to show its recent works related with semantic segmentation. These works include automatic building footprint extraction, automatic land cover classification from simulated Sentinel-2 images, ship detection (on behalf an undisclosed customer), handwritten digits recognition from 18th-19th century maps and on-going works on cloud and vehicle detection.&lt;/p&gt;
 
 &lt;figure style=&quot;width: 500px&quot; class=&quot;align-center&quot;&gt;
   &lt;img src=&quot;/images/Poster Seminaire TIM.jpg&quot; alt=&quot;Poster Magellium @ Seminaire TIM&quot; /&gt;
