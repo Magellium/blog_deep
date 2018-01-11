@@ -488,8 +488,8 @@ pre {
 */
 body {
   color: rgba(255, 255, 255, 0.75);
-  background-color: #595959;
-  background-image: linear-gradient(to bottom, #6b6b6b, #474747);
+  background-color: #384852;
+  background-image: linear-gradient(to bottom, #465b67, #2a353d);
   display: flex;
   flex-direction: column;
   min-width: 100vw;
@@ -828,3 +828,19 @@ button.disqus-load {
   .posts-for-tag:target {
     display: block;
     animation: posts-for-tag-fade-in 0.6s ease-in-out; }
+
+#sidebar .site-title {
+  font-family: 'Open Sans', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+
+#sidebar .site-title a:hover {
+  text-decoration: none; }
+
+a:hover {
+  text-decoration: none; }
+
+.container > * {
+  max-width: 58rem; }
+
+html {
+  font-family: 'Open Sans', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1rem; }
