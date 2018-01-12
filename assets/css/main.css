@@ -830,7 +830,8 @@ button.disqus-load {
     animation: posts-for-tag-fade-in 0.6s ease-in-out; }
 
 #sidebar .site-title {
-  font-family: 'Open Sans', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  font-family: 'Open Sans', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 2.25rem; }
 
 .home #sidebar .site-title {
   font-size: 2.25rem; }
