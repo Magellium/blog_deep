@@ -2,8 +2,6 @@
 
 Le blog est disponible ici: http://deeplearning.magellium.fr
 
-En interne (la version avec les draft etc) est disponible ici: http://deeplearning.gitana.magellium.com/Blog
-
 # Ecrire un article
 
 Ecrire un fichier en markdown dans le répretoire `_posts`.
@@ -68,9 +66,7 @@ Vous pouvez donc vérifier le rendu sur le site interne
 Vous avez vérifier le rendu sur le site interne ?
 Alors vous pouvez publier.
 
-Pour cela, allez sur la page du projet sur [gitana, rubrique pipelines](https://gitana.magellium.com/DEEPLEARNING/Blog/pipelines).
-
-Touvez le dernier pipeline executé:
+Pour cela, allez sur la page du projet sur rubrique pipelines. Trouvez le dernier pipeline executé:
 
 ![le dernier pipeline](docs/pipeline_1.png).
 
@@ -83,6 +79,6 @@ Lancez la publication manuelle vers github:
 
 Le blog utilise [Jekyll](https://jekyllrb.com/) avec le template [HydeOut](https://github.com/fongandrew/hydeout).
 
-* Le code est hébergé sur gitana en interne à Magellium.
+* Le code est hébergé en interne à Magellium.
 * On utilise `gitlab-ci` pour générer le site web à partir du code.
 * le résultat du build (et uniquement le résultat, pas le code) est publié sur [github](https://github.com/Magellium/blog_deep).
